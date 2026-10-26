@@ -1,6 +1,7 @@
 # Projeto-Interdisciplinaridade-FAPERJ
 
 **Cordenadora:** Dra. Alexandra Almeida, PROCC Fiocruz
+
 **Coordenador Adjunto:** Dr. Francisco Bastos, Fiocruz
 
 **Iniciação Científica:**
