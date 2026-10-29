@@ -11,7 +11,7 @@
 - **Isabela Santana**, graduanda em química na UERJ
 
 **Monitoras voluntárias dos workshops presenciais:**
-- **Maria Eduarda Mesquita Magalhães**, graduanda em Ciência de Dados e Inteligência Artificial na FGV-EMAp
+- **Maria Eduarda Mesquita**, graduanda em Ciência de Dados e Inteligência Artificial na FGV-EMAp
 - **Mariana Fernandes Rocha**, graduanda em Ciência de Dados e Inteligência Artificial na FGV-EMAp
 - **Paula Eduarda de Lima**, graduanda em Ciência de Dados e Inteligência Artificial na FGV-EMAp
 
